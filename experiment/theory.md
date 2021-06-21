@@ -16,4 +16,3 @@ Continue to analyze each of the other joints, choosing ones having at most two u
 Members in compression push on the joint and members in tension pull on the joint<br/>
 Mechanics of Materials and building codes are used to size the members once the forces are known<br/>
 
-[Read more](http://bsa-iiith.vlabs.ac.in/exp7/Exp-7%20Arches.pdf)

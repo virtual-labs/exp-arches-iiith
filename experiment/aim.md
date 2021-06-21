@@ -7,5 +7,3 @@ A truss is composed of triangles because of the structural stability of that sha
 
 To know the shear force diagram and bending moment diagram for a given portal frame.
 
-
-[Read more](http://bsa-iiith.vlabs.ac.in/exp7/Exp-7%20Arches.pdf)
